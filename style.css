@@ -16,10 +16,12 @@ body {
 .navbar{
   font-family: 'Poppins'; 
   color: black;
+  top: 20px;
 }
 
 .navbar-light  {
-	font-weight: bold;
+  font-weight: bold;
+  
 }
 .nav-link {
   padding: 0.625rem;
@@ -78,10 +80,16 @@ body {
   border-radius: 10px;
   
 }
+h2{
+  font-family: 'Poppins';
+  
+}
 .card-columns .card {
+  padding-left: 5%;
 	display: inline-block;
   width: 90%;
   height: 100%;
+  
   
 }
 
